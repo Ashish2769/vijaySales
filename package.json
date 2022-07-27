@@ -1,0 +1,23 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "This is application for Vijay sales",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish2769/vijaySales.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish2769/vijaySales/issues"
+  },
+  "homepage": "https://github.com/Ashish2769/vijaySales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
